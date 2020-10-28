@@ -1,0 +1,5 @@
+- Open Core 0.6.2 Debug
+- Asrock H110M-DVS R2.0
+- Intel Core i3-6100
+- RAM DDR4 Kingston 8Gb x2
+- VGA GIGABYTE RX5600-XT
